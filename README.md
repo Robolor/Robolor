@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Robolor Aka Blake
-- 👀 I’m interested in learning more mid and high level coding skills
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on more basic projects, I would be excited to be invited to learn/work on small projects as I learn more about working with a team.
-- 📫 How to reach me: Email me @ robolor.official@gmail.com
+- 👋 Hello everyone, my name is Blake AKA @robolor
+- 👀 I’m currently working in a tech support role and building my software and web development skills in my free time.
+- 🌱 I’m always looking for new knowledge to absorb, but my interest in software development started with a college course on c++, back in 2016, which has lead to where I am today. Since then I have taken multiple Udemy courses on languages such as python, HTML, and css. 
+- 💞️ I’m looking to collaberate on projects that push my comfort zone and build my repertoire until I am ready to start my first software development position.
+- 📫 You can reach me for business inquiries at: robolor.official@gmail.com
 
 <!---
 Robolor/Robolor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
